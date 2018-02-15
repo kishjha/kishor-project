@@ -1,3 +1,4 @@
-Hello world!
+ Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Hello world!
 This is a sample text document. 
-And it is to be verified. 
+And it is to be verified. And editing.
